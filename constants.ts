@@ -7,7 +7,7 @@ export const METADATA = {
   title: "Portfolio | Nilam Wati",
   description:
     "I bridge the gap between design and development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
-  siteUrl: "https://ayushsingh.net/",
+  siteUrl: "https://nilamwati.netlify.app/",
 };
 
 export const MENULINKS = [
