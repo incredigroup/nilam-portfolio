@@ -39,7 +39,7 @@ export const TYPED_STRINGS = [
   "I love coming up with creative ideas",
 ];
 
-export const EMAIL = "nilamwati0407@gmail.com";
+export const EMAIL = "incredgex0225@gmail.com";
 
 export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/nilam-wati-954b89248/",

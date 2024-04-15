@@ -37,7 +37,7 @@ const Footer = () => {
             target: "_blank",
             rel: "noreferrer",
           }}
-          href="/Nilam_Wati.pdf"
+          href="/Nilam-Wati.pdf"
         ></Button>
         {/* <Button
           classes="ml-3"
@@ -51,7 +51,7 @@ const Footer = () => {
         ></Button> */}
       </div>
       <h2 className="text-center text-sm sm:text-base mt-8">
-        Designed and Developed by Nilam: nilamwati0407@gmail.com
+        Designed and Developed by Nilam: incredgex0225@gmail.com
       </h2>
     </>
   );

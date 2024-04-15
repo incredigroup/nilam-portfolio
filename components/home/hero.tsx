@@ -97,7 +97,7 @@ const HeroSection = React.memo(() => {
             target: "_blank",
             rel: "noreferrer",
           }}
-          href="/Nilam_Wati.pdf"
+          href="/Nilam-Wati.pdf"
         ></Button>
       </div>
     </div>
